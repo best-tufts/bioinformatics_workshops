@@ -8,7 +8,7 @@ The bioinformatics workshop materials presented here are brought to you by the f
       
 - [Data Intensive Study Center (DISC)](https://disc.tufts.edu/)
 
-    - DISC provide education, training, and academic/industry consulting services.
+    - DISC provides many resources to the Tufts community, including training in data science, opportunities for collaboration between disciplinary experts and data scientists, funding opportunities, and scholarships.
       
 - [Clinical and Translational Science Institute (CTSI)](https://www.tuftsctsi.org/)
 

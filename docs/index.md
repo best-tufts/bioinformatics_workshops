@@ -1,5 +1,14 @@
 # Bioinformatics Workshops At Tufts University
 
+
+``` mermaid
+graph LR
+  A(Intro Materials) --> B(Genomics);
+  A -->C(Trascriptomics);
+  A -->D(Proteomics);
+  A -->E(Metagenomics);
+```
+
 The bioinformatics workshop materials presented here are brought to you by the following groups at Tufts University:
 
 - [Research Technology - Tufts Technology Services](https://it.tufts.edu/researchtechnology.tufts.edu)

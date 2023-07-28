@@ -3,8 +3,8 @@
 
 ``` mermaid
 graph LR
-  A(Intro Materials) --> B(Genomics);
-  A -->C(Trascriptomics);
+  A(Intro Materials:  <br />Intro To Unix <br />Intro To RStudio) --> B(Genomics);
+  A -->C(Trascriptomics: <br />Intro To Single-Cell RNA-seq <br />Intro To Trajectory Analysis);
   A -->D(Proteomics);
   A -->E(Metagenomics);
 ```

@@ -3,11 +3,13 @@
 
 ``` mermaid
 graph LR
-  A(Intro Materials:  <br />Intro To Unix <br />Intro To RStudio) --> B(Genomics);
+  A(Intro Materials:  <br />Intro To HPC/Unix <br />Intro To RStudio) --> B(Genomics);
   A -->C(Trascriptomics: <br />Intro To Single-Cell RNA-seq <br />Intro To Trajectory Analysis);
   A -->D(Proteomics);
   A -->E(Metagenomics);
 ```
+
+## Contributors
 
 The bioinformatics workshop materials presented here are brought to you by the following groups at Tufts University:
 
@@ -23,6 +25,8 @@ The bioinformatics workshop materials presented here are brought to you by the f
 
     - CTSI provides education, training, mentoring and assistance with developing new methods with a focus on translation of discoveries into clinical practice.
       
+## Current Materials
+
 Check out our current material by clicking on one of the following topics:
 
 - [Genomics](./genomics/genomics.md)

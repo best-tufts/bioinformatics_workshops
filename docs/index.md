@@ -23,12 +23,4 @@ The bioinformatics workshop materials presented here are brought to you by the f
 
     - CTSI provides education, training, mentoring and assistance with developing new methods with a focus on translation of discoveries into clinical practice.
       
-## Current Materials
-
-Check out our current material by clicking on one of the following topics:
-
-- [Genomics](./genomics/genomics.md)
-- [Transcriptomics](./transcriptomics/transcriptomics.md)
-- [Proteomics](./proteomics/proteomics.md)
-- [Epigenomics](./epigenomics/epigenomics.md)
-- [Metagenomics](./metagenomics/metagenomics.md)
+## Contact

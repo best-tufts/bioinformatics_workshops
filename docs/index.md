@@ -1,13 +1,11 @@
 # Bioinformatics Workshops At Tufts University
 
+The goal of BEST is to provide high-quality, end-to-end training in bioinformatics analysis methods to the Tufts Community. Our course developers represent multiple Tufts departments and institutes and our material is free to use. To request a workshop be presented as part of a semester course or to suggest a new workshop topic, contact best-tufts@elist
 
-``` mermaid
-graph LR
-  A(Intro Materials:  <br />Intro To HPC/Unix <br />Intro To RStudio) --> B(Genomics);
-  A -->C(Trascriptomics: <br />Intro To Single-Cell RNA-seq <br />Intro To Trajectory Analysis);
-  A -->D(Proteomics);
-  A -->E(Metagenomics);
-```
+|Workshop Category| Subcategory|Title|
+|-|-|-|
+|Introductory Workshops | | - Introduction to HPC/Linux<br> - Introduction to RStudio| 
+|Advanced Workshops | Transcriptomics | - Intro To Single-Cell RNAseq <br> - Intro To Trajectory Analysis| 
 
 ## Contributors
 

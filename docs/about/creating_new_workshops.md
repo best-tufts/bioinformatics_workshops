@@ -30,4 +30,27 @@ In this folder there are also subfolders which contain markdown documents that l
 
 ### `README.md`
 
-The 
+This file is the GitHub facing document (not rendered on the website).
+
+### `mkdocs.yml`
+
+This file is used to pull in neat mkdocs features and to organize website navigation. If you are curious about how to add features to the website check out the [MkDocs Documentation Page](https://squidfunk.github.io/mkdocs-material/reference/admonitions/). This documentation will show you how to edit the yml file to add features. 
+
+To change navigation, edit the following section of the `mkdocs.yml` file:
+
+```
+nav:
+    - About : 
+        - Introduction: index.md
+    - Genomics:
+        - Genomics Tutorials: genomics/genomics.md
+    - Transcriptomics:
+        - Transcriptomics Tutorials: transcriptomics/transcriptomics.md
+    - Proteomics:
+        - Proteomics Tutorials: proteomics/proteomics.md
+    - Metagenomics:
+        - Metagenomics Tutorials: metagenomics/metagenomics.md
+```
+
+The navigation is broken down into a few headers (About, Genomics, Transcriptomics, etc.). Under the headers are markdown documents that make up the website content. the text before the `:` is the text displayed on the website sidebar. The path afterwards, is the path to the markdown document after the `docs` folder. 
+

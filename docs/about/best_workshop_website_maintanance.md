@@ -54,3 +54,7 @@ nav:
 
 The navigation is broken down into a few headers (About, Genomics, Transcriptomics, etc.). Under the headers are markdown documents that make up the website content. the text before the `:` is the text displayed on the website sidebar. The path afterwards, is the path to the markdown document after the `docs` folder. 
 
+
+## Make a New Workshop
+
+To make a new workshop, 

@@ -36,7 +36,7 @@ This file is the GitHub facing document (not rendered on the website).
 
 This file is used to pull in neat mkdocs features and to organize website navigation. If you are curious about how to add features to the website check out the [MkDocs Documentation Page](https://squidfunk.github.io/mkdocs-material/reference/admonitions/). This documentation will show you how to edit the yml file to add features. 
 
-To change navigation, edit the following section of the `mkdocs.yml` file:
+To change navigation, edit the following section of the [`mkdocs.yml`](../../mkdocs.yml) file:
 
 ```
 nav:

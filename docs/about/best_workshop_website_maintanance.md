@@ -68,4 +68,5 @@ To make a new workshop:
 7. Now edit the `repo_url:`  line in the `mkdocs.yml` file so that it reads `repo_url: https://github.com/best-tufts/NEW_NAME_OF_REPO`
 8. Edit the README.md file to include your workshop title, learning objectives and workshop website.
 9. In the folder `docs/workshop_materials` create your markdown documents with workshop content. For more information on how to create a markdown document check out [GitHub's markdown documention](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-10. Once your content has been created you can render these markdown documents as webpages by editing the `nav` section in the `mkdocs.yml` file to include these new documents. 
+10. Once your content has been created you can render these markdown documents as webpages by editing the `nav` section in the `mkdocs.yml` file to include these new documents.
+11. Give your workshop website 10 minutes to be build and deployed. Then go to "Settings" and then "Pages" where you should see the link to your new workshop website!

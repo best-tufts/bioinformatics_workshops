@@ -57,4 +57,15 @@ The navigation is broken down into a few headers (About, Genomics, Transcriptomi
 
 ## Make a New Workshop
 
-To make a new workshop, 
+To make a new workshop:
+
+1. Click "New" under the repositories header on GitHub.com
+2. Now click "Import A Repository"
+3. Where it says "Your old repository's clone URL*" enter the following link: https://github.com/best-tufts/template
+4. In the "Repository name*" field, give your new workshop a name reflective of the material it will cover
+5. Click "Begin Import"
+6. Go to "Settings" and click "Actions" and then select "Allow all actions and reusable workflows"
+7. Now edit the `repo_url:`  line in the `mkdocs.yml` file so that it reads `repo_url: https://github.com/best-tufts/NEW_NAME_OF_REPO`
+8. Edit the README.md file to include your workshop title, learning objectives and workshop website.
+9. In the folder `docs/workshop_materials` create your markdown documents with workshop content. For more information on how to create a markdown document check out [GitHub's markdown documention](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+10. Once your content has been created you can render these markdown documents as webpages by editing the `nav` section in the `mkdocs.yml` file to include these new documents. 
